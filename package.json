@@ -28,7 +28,8 @@
     "sass-loader": "^7.3.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.9",
+    "lodash": ">=4.17.13"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -38,7 +39,8 @@
     "popper.js": "^1.16.0",
     "roboto-fontface": "^0.10.0",
     "typeface-raleway": "0.0.54",
-    "wavesurfer.js": "^2.2.1"
+    "wavesurfer.js": "^2.2.1",
+    "lodash": ">=4.17.13"
   },
   "cordova": {
     "platforms": [
