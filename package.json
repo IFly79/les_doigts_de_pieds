@@ -14,31 +14,31 @@
   "author": "Jean-Gabriel Delpuech",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.3.4",
-    "@babel/preset-env": "^7.3.4",
-    "@babel/register": "^7.0.0",
-    "babel-loader": "^8.0.5",
-    "browser-sync": "^2.26.3",
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/register": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "browser-sync": "^2.26.7",
     "browser-sync-webpack-plugin": "^2.2.2",
     "cordova": "^8.1.2",
-    "css-loader": "^2.1.0",
+    "css-loader": "^2.1.1",
     "mini-css-extract-plugin": "^0.5.0",
-    "node-sass": "^4.11.0",
-    "sass-loader": "^7.1.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.3.1",
     "style-loader": "^0.23.1",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "cordova-android": "^8.0.0",
+    "cordova-android": "^8.1.0",
     "google-fonts-webpack-plugin": "^0.4.4",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.7",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
     "roboto-fontface": "^0.10.0",
     "typeface-raleway": "0.0.54",
-    "wavesurfer.js": "^2.1.3"
+    "wavesurfer.js": "^2.2.1"
   },
   "cordova": {
     "platforms": [
