@@ -1,0 +1,32 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+@import url("https://fonts.googleapis.com/css?family=Ramabhadra");
+
+#body {
+  background-color: black;
+}
+
+#waveform {
+  position: relative;
+  width: 100%;
+  border-radius: 10px 10px 0 0px;
+  background-image: linear-gradient(rgb(44, 44, 44), rgba(0, 0, 0, 0.74));
+}
+
+#playlist {
+  background-color: black;
+}
+
+#name {
+  font-family: "Lobster", cursive;
+  text-shadow: #f57f17 2px 5px;
+  color: azure;
+  text-align: center;
+  text-anchor: middle;
+  text-decoration-color: beige;
+}
+
+#first {
+  color: black !important;
+  font-family: "Ramabhadra", sans-serif;
+}
